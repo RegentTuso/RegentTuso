@@ -1,28 +1,20 @@
 <div align="center">
 
-```
- ██████╗  ██████╗ ████████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
- ██╔══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
- ██████╔╝██║   ██║   ██║       ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
- ██╔══██╗██║   ██║   ██║       ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
- ██████╔╝╚██████╔╝   ██║       ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
- ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=160&text=HENRY.EXE&fontSize=72&fontColor=00FF41&fontAlignY=45&desc=B-Tech%20%7C%20Robotics%20%7C%20AI%20%7C%20Gaming&descAlignY=72&descSize=18&descColor=39FF14&stroke=00FF41&strokeWidth=2" width="100%"/>
+
+<br/>
 
 ```
-                         ╔══════════════════╗
-            ╔════╗       ║  ◈           ◈  ║       ╔════╗
-            ║╔══╗║  ╔════╣                 ╠════╗  ║╔══╗║
-            ║╚══╝║  ║    ║  ───────────    ║    ║  ║╚══╝║
-            ╚════╝  ╚════╣                 ╠════╝  ╚════╝
-                         ╚══════════════════╝
-                      ╔══════════════════════╗
-                      ║  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ║
-                      ║  ▒  HENRY.EXE  ▒▒  ║
-                      ║  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  ║
-                      ╚══════╝        ╚═════╝
-                           ██        ██
-                         ██████    ██████
+        _________
+       |  o   o  |
+ [===]-|  -----  |-[===]
+       |_________|
+       | ####### |
+       | #HENRY# |
+       | ####### |
+       |___|_|___|
+           | |
+          /| |\
 ```
 
 # Hi, I'm **Henry** 👾
@@ -87,32 +79,22 @@ henry = {
 
 </div>
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/RegentTuso/RegentTuso/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## 🎮 Currently
 
 ```
-🎓  Studying   →  B-Tech at Pearson
-🤖  Building   →  Robotics & AI projects  
-🎮  Playing    →  Favourite game of the moment
-📚  Learning   →  Always something new
+[*] Studying   ->  B-Tech at Pearson
+[*] Building   ->  Robotics & AI projects
+[*] Playing    ->  Favourite game of the moment
+[*] Learning   ->  Always something new
 ```
 
 ---
 
 <div align="center">
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ PRESS START TO COLLABORATE █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+**[ PRESS START TO COLLABORATE ]**
 
 *Thanks for stopping by! Feel free to explore my repositories.*
 
